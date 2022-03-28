@@ -1,0 +1,83 @@
+Exercicios de lógica
+
+Resposta 1: IV. João é professor de matemática.
+Resposta 2:d. Antônio não passa na prova e não vai ao cinema em Novo Horizonte.
+
+Exercicios de algoritmo
+
+Algoritmo: fazer café
+
+passo 1: pegar uma xicara
+passo 2: colocar na pia
+passo 3: pegar o filtro
+passo 4: colocar o filtro na xicara
+passo 5: pegar uma leiteira
+passo 6: colocar agua na leiteira
+passo 7: colocar leiteira na boca do fogão
+passo 8: ligar o fogo
+passo 9: colocar café no filtro
+passo 10: esperar agua quase ferver
+passo 11: pegar leiteira
+passo 12: colocar agua quente no café
+passo 13: esperar
+passo 14: guardar a leiteira
+passo 15: guardar o café
+passo 16: jogar fora o filtro com o pó 
+passo 17: tomar o café
+
+Algoritmo: fazer compras de remedios
+
+passo 1: verificar preços
+passo 2: pegar receitas
+passo 3: sair de casa 
+passo 4: atravessar a rua
+passo 5: ir a famarcia mais proxima
+passo 6: entrar na farmacia
+passo 7: pedir os remedios
+passo 8: entregar as receitas
+passo 9: pegar os remedios
+passo 10: pagar pelos remedios
+passo 11: voltar pra casa
+
+Algoritmo: fazer bolo de chocolate
+
+passo 1: pegar vasilha
+passo 2: pegar açucar
+passo 3: colocar quatro copos de açucar na vasilha
+passo 4: guardar açucar
+passo 5: pegar manteiga de bolo
+passo 6: colocar uma barra da manteiga na vasilha
+passo 7: guardar manteiga
+passo 8: mexer
+passo 9: pegar 3 ovos
+passo 10: quebrar os ovos
+passo 11: colocar na vasilha
+passo 12: jogar cascas fora
+passo 13: mexer
+passo 14: pegar farinha de trigo
+passo 15: colocar quatro copos de farinha de trigo na vasilha
+passo 16: guardar farinha de trigo
+passo 17: mexer
+passo 18: pegar leite
+passo 19: colocar um copo e meio de leite na vasilha
+passo 20: guardar leite
+passo 21: mexer
+passo 22: pegar achocolatado
+passo 23: colocar um copo de achocolatado na vasilha
+passo 24: guardar achocolatado
+passo 25: misturar
+passo 26: pegar fermento
+passo 27: colocar uma colher de sopa de fermento na vasilha
+passo 28: guardar fermento
+passo 29: pegar forma
+passo 30: colocar mistura na forma
+passo 31: abrir o forno
+passo 32: colocar a forma no forno
+passo 33: fechar o forno
+passo 34: ligar o forno
+passo 35: esperar ficar pronto
+passo 36: desligar forno
+passo 37: tirar bolo do forno
+passo 38: esperar esfriar
+passo 39: cortar
+passo 40: comer
